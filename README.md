@@ -1,5 +1,6 @@
 # modelosyaprendizaje
 Prueba Final
+
 El presente proyecto, consistió en predecir si una masa localizada en las mamas es benigno o maligno. 
 El análisis se realizó en la base de datos de breast_cancer_wisconsin.csv. (https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+%28Diagnostic%29).
 Primero se procedió a revisar como se encontraba la base de datos, nombrar cada columna y eliminar los datos marcados con "?".
