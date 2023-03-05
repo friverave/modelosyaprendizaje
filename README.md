@@ -25,3 +25,5 @@ SET DE PRUEBA
 | FALSO POSITIVO  | 2  | 20  | 0  |
 | FALSO NEGATIVO  | 0  | 28  | 45  |
 | VERDADERO POSITIVO  | 45  | 17  | 0  |
+
+En base a los resultados, se puede observar que el modelo randomforest es el que logra minimizar los falsos negativos tanto como en el set de entreamiento como en el set de prubea. Cuyo error es el más grave y el que se tiene que poner más atención.
